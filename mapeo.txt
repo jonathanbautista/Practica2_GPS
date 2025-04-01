@@ -1,0 +1,16 @@
+imagenes/etsisi.png: coordenada_superior_izquierda = (446157.766, 4471230.118) 
+    coordenada_inferior_derecha = (447383.833, 4470954.842)
+
+imagenes/insia.png: coordenada_superior_izquierda = 
+    coordenada_inferior_derecha
+
+
+imagenes/prueba.jpg:coordenada_superior_izquierda = (40.38805556, -3.73416667)  # Latitud, Longitud
+coordenada_inferior_derecha = (40.38666667, -3.72805556)    # Latitud, Longitud
+
+
+
+imagenes/pruebapng.png:coordenada_superior_izquierda = (40.38805556, -3.73416667)  # Latitud, Longitud
+coordenada_inferior_derecha = (40.38666667, -3.72805556)    # Latitud, Longitud
+
+
